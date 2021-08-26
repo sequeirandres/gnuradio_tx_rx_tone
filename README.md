@@ -6,7 +6,9 @@
 ### señal (tone) trasnmitida 
 ![image](BladeRF_tx_rx_tone/balderf_tx_rx_tone_gui_00.JPG)
 
-### señal recivida
+### Spectrograma
 ![image](BladeRF_tx_rx_tone/balderf_tx_rx_tone_gui_01.JPG)
+
+### FFT
 ![image](BladeRF_tx_rx_tone/balderf_tx_rx_tone_gui_03.JPG)
 
