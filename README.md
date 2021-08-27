@@ -15,8 +15,10 @@
 
 ### Mediciones con un plato de metal de 40 cm de lado
 
+<img src="https://your-image-url.type" width="100" height="100">
+
 - Resultados a 60 cm 
-![image](BladeRF_tx_rx_tone/mediciones/balderf_tx_rx_tone_potencia2_60_cm.JPG)
+![image](BladeRF_tx_rx_tone/mediciones/balderf_tx_rx_tone_potencia2_60_cm.JPG | width=100)
 
 - Resultados a 90 cm 
 ![image](BladeRF_tx_rx_tone/mediciones/balderf_tx_rx_tone_potencia2_90_cm.JPG)
