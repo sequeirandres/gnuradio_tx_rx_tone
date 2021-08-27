@@ -4,7 +4,7 @@
 ### Diagrama en modulos con gnuradio
 ![image](BladeRF_tx_rx_tone/balderf_tx_rx_tone_gui_sch.JPG)
 
-### señal (tone) trasnmitida 
+### señal (tone) transmitida 
 ![image](BladeRF_tx_rx_tone/balderf_tx_rx_tone_gui_00.JPG)
 
 ### Spectrograma
