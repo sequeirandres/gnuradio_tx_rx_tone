@@ -30,6 +30,7 @@
 ![image](BladeRF_tx_rx_tone/mediciones/balderf_tx_rx_tone_potencia2_150_cm.JPG)
 
 ### Tabla de resutados :
+-----------------------
 
 |  Distancia  [cm]  | Potencia [dBm]   |
 | :---------------- | :--------------: | 
