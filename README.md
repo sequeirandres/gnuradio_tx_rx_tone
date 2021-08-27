@@ -13,3 +13,16 @@
 ### FFT
 ![image](BladeRF_tx_rx_tone/balderf_tx_rx_tone_gui_03.JPG)
 
+### Mediciones con un plato de metal de 40 cm de lado
+
+- Resultados a 60 cm 
+![image](BladeRF_tx_rx_tone/mediciones/balderf_tx_rx_tone_potencia2_60_cm.JPG)
+
+- Resultados a 90 cm 
+![image](BladeRF_tx_rx_tone/mediciones/balderf_tx_rx_tone_potencia2_90_cm.JPG)
+
+- Resultados a 120 cm 
+![image](BladeRF_tx_rx_tone/mediciones/balderf_tx_rx_tone_potencia2_120_cm.JPG)
+
+- Resultados a 150 cm 
+![image](BladeRF_tx_rx_tone/mediciones/balderf_tx_rx_tone_potencia2_150_cm.JPG)
