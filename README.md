@@ -29,9 +29,12 @@
 - Resultados a 150 cm 
 ![image](BladeRF_tx_rx_tone/mediciones/balderf_tx_rx_tone_potencia2_150_cm.JPG)
 
+### Tabla de resutados :
 
-| Column 1       | Column 2     | Column 3     |
-| :------------- | :----------: | -----------: |
-|  Cell Contents | More Stuff   | And Again    |
-| You Can Also   | Put Pipes In | Like this \| |
+|  Distancia  [cm]  | Potencia [dBm]   |
+| :---------------- | :--------------: | 
+|        60         |     -28.22       | 
+|        90         |     -36.85       | 
+|       120         |     -40.67       | 
+|       150         |     -45.79      \| 
 
