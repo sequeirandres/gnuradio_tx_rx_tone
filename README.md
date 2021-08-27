@@ -41,7 +41,6 @@
 |       150         |     -45.79       | 
 
 
-- Ecuacion de radar
 ![image](BladeRF_tx_rx_tone/ecuacion_radar.JPG)
 
 
